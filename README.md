@@ -1,4 +1,4 @@
-🗣️ Typescript / Javascript<br>
+🗣️ Typescript<br>
 🛠️ React.js / Next.js<br>
 💻 MacBook Air M3（16GB）<br>
 
